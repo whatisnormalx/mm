@@ -1,23 +1,24 @@
-# Akinator-Bot
-A Telegram bot where you can play the Akinator Guessing game
-check out [Akinator](https://t.me/aki_akinator_bot) on Telegram.
-# Deploy to heroku by clicking on the button below..
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fadenosinetp10%2FAkinator-bot&template=https%3A%2F%2Fgithub.com%2Fadenosinetp10%2FAkinator-bot
+# بوت المطي الذكي
+مراسلة المطور :
+[Medo](https://t.me/ggggw) 
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/whatisnormalx/my-aki
 )
 
-## Note
+## ملاحظة
 
- Akinator uses **MongoDB** for storing all it's user data.
+قاعدة البيانات هي *mongoDB*
  
-# Commands
-`/start` - Start the bot
+# الاوامر
+`/start` - لبدء التشغيل
 
-`/language` - Change language of Akinator ( This doesn't change the language of the bot! )
+`/language` - لتغيير لغة البوت)
 
-`/childmode` - Enable/Disable NSFW Content
+`/childmode` - وضع الطفل ( لفلترة الاسئلة )
 
-`/play` - Start playing!
+`/play` - لبدء اللعب
 
-`/me` - Shows stats about you.
+`/me` - لمعلوماتي 
 
-`/leaderboard` - Check leaderboard. It includes various categories!
+`/leaderboard` - التحقق من الترند والمتصدرين
